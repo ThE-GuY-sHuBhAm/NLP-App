@@ -20,7 +20,7 @@ NLP-App is a desktop application built using **Tkinter (Python GUI)** that provi
 
 ## 📸 Screenshots
 
-| Register Screen | Login Screen | Types of features | Sentiment Analysis | Emotion Detection | NER |
+| Registration Screen | Login Screen | Types of features | Sentiment Analysis | Emotion Detection | NER |
 |--------------|--------------------|-------------------|--------------|--------------------|-------------------|
 | ![](resources/register.png) | ![](resources/login.png) | ![](resources/types.png) | ![](resources/sentiment-analysis.png) | ![](resources/emotion-detection.png) | ![](resources/NER.png) | ![](resources/emotion.png) | 
 
