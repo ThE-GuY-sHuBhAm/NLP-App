@@ -1,0 +1,17 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+.venv/
+.env
+
+# Build
+build/
+dist/
+*.spec
+
+# System
+.DS_Store
+Thumbs.db
+.env
