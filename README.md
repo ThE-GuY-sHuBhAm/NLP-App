@@ -13,8 +13,7 @@ NLP-App is a desktop application built using **Tkinter (Python GUI)** that provi
 - ❤️ **Emotion Detection** (joy, sadness, anger, love, etc.)
 - 🧠 **Named Entity Recognition** (Names, Locations, Organizations, etc.)
 - 📦 Simple and beautiful **Tkinter-based GUI**
-- 🖥️ Packaged into a standalone `.exe` using **PyInstaller**
-- 🔐 Secure API token handling via `.env`
+
 
 ---
 
